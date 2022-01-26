@@ -1,6 +1,4 @@
 Hello git world
 Hello from Akshay
-Hello from Akshay2
-Hello Chitti , speed 1Thz, memory 1 Zb
-Hello from Akruti Das -- 0013
-Hello from Tushar Ajabe
+
+
